@@ -35,7 +35,7 @@ Notes for myself in each section
 
 ## Credits
 
-N/a
+N/A
 
 ## License
 
